@@ -54,7 +54,7 @@ Instead, 1rem = 1em = 16px */
     gap: 6.4rem;
   }
 
-  .Reviews-container {
+  .reviews-container {
     padding: 9.6rem 3.2rem;
   }
 }
@@ -101,7 +101,7 @@ Instead, 1rem = 1em = 16px */
     padding: 2.4rem 3.2rem 3.2rem 3.2rem;
   }
 
-  .section-Reviews {
+  .section-reviews {
     grid-template-columns: 1fr;
   }
 
@@ -233,7 +233,7 @@ Instead, 1rem = 1em = 16px */
   .grid-2-cols,
   .grid-3-cols,
   .grid-4-cols,
-  .Reviews,
+  .reviews,
   
   .cta {
     grid-template-columns: 1fr;
