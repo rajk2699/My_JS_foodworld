@@ -233,10 +233,8 @@ Instead, 1rem = 1em = 16px */
   .grid-2-cols,
   .grid-3-cols,
   .grid-4-cols,
-  .reviews,
-  .reviews-container {
-    padding: 3.6rem 1.2rem;
-  };
+  .Reviews,
+  
   .cta {
     grid-template-columns: 1fr;
   }
